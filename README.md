@@ -6,8 +6,8 @@ It creates, saves, searches, exports, and sends rosters created for a local busi
 
 This project is no longer being developed.
 
-*Project commenced 20 February 2019.*
-*programming commenced 16 May 2019.*
-*Last modification 6 August 2019.*
+- *Project commenced 20 February 2019.*
+- *Programming commenced 16 May 2019.*
+- *Last modification 6 August 2019.*
 
 For a history of releases see the [changelog](CHANGELOG.md).
