@@ -1,6 +1,8 @@
 # Blue Dog Café Rostering System
 **Roster generator and distributor for the Blue Dog Cafe.**
 
+![Screenshot of Roster On (Blue Dog Cafe Rostering System)](https://github.com/Julesc013/blue-dog-cafe-rostering-system/blob/master/Resources/BDCRS-2024-10-10.png)
+
 A program developed for **VCE Software Development** in 2019.
 It creates, saves, searches, exports, and sends rosters created for a local business.
 
