@@ -11,3 +11,12 @@ This project is no longer being developed.
 - *Last modification 6 August 2019.*
 
 For a history of releases see the [changelog](CHANGELOG.md).
+
+## Project Documentation
+
+Comprehensive documentation was written during the creation of this program.
+The following documents are of particular interest:
+- [Requirements Specification](https://github.com/Julesc013/blue-dog-cafe-rostering-system/blob/master/Documentation/1%20Analysis/SRS/SRS_v11_24.04.19.pdf)
+- [Design Folio](https://github.com/Julesc013/blue-dog-cafe-rostering-system/blob/master/Documentation/2%20Design/Full%20Design%20Folio%20(Final%20Print).pdf)
+- [Usability Testing](https://github.com/Julesc013/blue-dog-cafe-rostering-system/blob/master/Documentation/3%20Development/Testing/Usability%20Testing/Usability%20Testing.pdf)
+- [Final Evaluation](https://github.com/Julesc013/blue-dog-cafe-rostering-system/blob/master/Documentation/4%20Evaluattion/Evaluation_Full.pdf)
